@@ -1,3 +1,3 @@
 # Be The Hero
 
-Projeto desenvolvido durante a Semana Ommini 11 Stack da RocketSet
+Projeto desenvolvido durante a Semana Ommini Stack 11 da RocketSet
