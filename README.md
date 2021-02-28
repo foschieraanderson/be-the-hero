@@ -6,7 +6,7 @@ Projeto desenvolvido durante a Semana Ommini Stack 11 da [Rocketseat](https://ro
 
 O objetivo do projeto é conectar pessoas interessadas em ajudar e **Ongs** que estão precisando de ajuda.
 
-![Heroes](https://raw.githubusercontent.com/foschieraanderson/be-the-hero/master/screenshots/heroes.png)
+<p align="center"><img alt="Heroes" title="Heroes" height="280" src="https://raw.githubusercontent.com/foschieraanderson/be-the-hero/master/screenshots/heroes.png"></p>
 
 ## Getting Started
 
