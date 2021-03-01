@@ -55,6 +55,18 @@ git clone https://github.com/foschieraanderson/be-the-hero.git
 	</tr>
 </table>
 
+## Tecnologias
+* [Node](https://nodejs.org/en/)
+* [Express](https://expressjs.com/pt-br/)
+* [Celebrate](https://github.com/arb/celebrate)
+* [Jest](https://jestjs.io/)
+* [Knex](http://knexjs.org/)
+* [Sqlite](https://www.sqlite.org/index.html)
+* [React](https://pt-br.reactjs.org/)
+* [Axios](https://github.com/axios/axios)
+* [React-Native](https://reactnative.dev/)
+* [Expo](https://expo.io/)
+
 ---
 
 <h4 align="center"> <em>&lt;/&gt;</em> <a href="https://github.com/foschieraanderson" target="_blank">foschieraanderson</a> </h4>
